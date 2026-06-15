@@ -1,3 +1,5 @@
-node_modules/
-docker_test_db/
-*/.env
+k8s/minikube-linux-amd64
+*.exe
+*.zip
+*.tar
+*.gz
